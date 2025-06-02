@@ -26,7 +26,11 @@ max-width: 200px;
 
 
 header{
-    background-color: chocolate;
+    background-color:rgba(12, 139, 133, 0.774);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
 
 footer{
